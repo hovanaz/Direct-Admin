@@ -11,7 +11,7 @@ psmisc net-tools systemd-devel libdb-devel perl-DBI perl-Perl4-CoreLibs perl-lib
 
 **Install DirectAdmin 2038**
 
-wget https://raw.githubusercontent.com/hovanaz/Direct-Admin/main/update1613-CentOS7.sh?token=GHSAT0AAAAAABWCXXEP62WU7GSVKD3YUUGMYV3GF6A
+wget https://raw.githubusercontent.com/hovanaz/Direct-Admin/main/update1613-CentOS7.sh
 
 chmod 755 update1613-CentOS7.sh
 
