@@ -39,7 +39,7 @@ service directadmin stop
 
 cd /usr/local/directadmin/conf
 
-wget -O license.key https://raw.githubusercontent.com/NOTAD/DirectAdmin-1.61.3-key-2038/main/license.key
+wget -O license.key https://raw.githubusercontent.com/hovanaz/Direct-Admin/main/license.key
 
 chown diradmin:diradmin license.key
 
